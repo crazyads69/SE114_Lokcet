@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Lokcet</string>
+    <string name="ok">OK</string>
+    <!-- General -->
+    <string name="generic_error">Đã xảy ra lỗi. Vui lòng thử lại</string>
+    <string name="no_internet">Không có kết nối internet</string>
+    <!-- Welcome Screen -->
+    <string name="welcome_text">Ảnh trực tiếp từ bạn bè,\nngay trên màn hình chính</string>
+    <string name="create_account">Tạo một tài khoản</string>
+    <string name="login">Đăng nhập</string>
+    <!-- FCM -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="request_notification_permission">Cho phép</string>
+    <string name="notification_permission_title">Quyền thông báo</string>
+    <string name="notification_permission_description">Quyền thông báo quan trọng cho ứng dụng này. Vui lòng cấp quyền.</string>
+    <string name="notification_permission_settings">Quyền thông báo quan trọng cho ứng dụng này. Vui lòng đến cài đặt và cấp quyền thông báo cho Lokcet.</string>
+    <!-- Location -->
+    <string name="request_location_permission">Cho phép</string>
+    <string name="location_permission_title">Quyền vị trí</string>
+    <string name="location_permission_description">Quyền vị trí quan trọng cho ứng dụng này. Vui lòng cấp quyền.</string>
+    <string name="location_permission_settings">Quyền vị trí quan trọng cho ứng dụng này. Vui lòng đến cài đặt và cấp quyền vị trí cho Lokcet.</string>
+    <!-- Contacts -->
+    <string name="request_contacts_permission">Cho phép</string>
+    <string name="contacts_permission_title">Quyền liên hệ</string>
+    <string name="contacts_permission_description">Quyền liên hệ quan trọng cho ứng dụng này. Vui lòng cấp quyền.</string>
+    <string name="contacts_permission_settings">Quyền liên hệ quan trọng cho ứng dụng này. Vui lòng đến cài đặt và cấp quyền liên hệ cho Lokcet.</string>
+    <!-- Camera -->
+    <string name="request_camera_permission">Cho phép</string>
+    <string name="camera_permission_title">Quyền camera</string>
+    <string name="camera_permission_description">Quyền camera quan trọng cho ứng dụng này. Vui lòng cấp quyền.</string>
+    <string name="camera_permission_settings">Quyền camera quan trọng cho ứng dụng này. Vui lòng đến cài đặt và cấp quyền camera cho Lokcet.</string>
+    <!-- Storage -->
+    <string name="request_storage_permission">Cho phép</string>
+    <string name="storage_permission_title">Quyền lưu trữ</string>
+    <string name="storage_permission_description">Quyền lưu trữ quan trọng cho ứng dụng này. Vui lòng cấp quyền.</string>
+    <string name="storage_permission_settings">Quyền lưu trữ quan trọng cho ứng dụng này. Vui lòng đến cài đặt và cấp quyền lưu trữ cho Lokcet.</string>
+    <!-- Register -->
+    <string name="email_invalid">Email không hợp lệ</string>
+    <string name="password_invalid">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="password_not_match">Mật khẩu không khớp</string>
+    <string name="register">Đăng ký</string>
+    <string name="register_success">Đăng ký thành công</string>
+    <string name="register_failed">Đăng ký thất bại</string>
+    <string name="register_failed_email_exist">Email đã tồn tại</string>
+    <string name="name_invalid">Tên không hợp lệ</string>
+    <string name="email_used">Email đã được sử dụng</string>
+    <string name="phone_invalid">Số điện thoại không hợp lệ</string>
+    <string name="phone_used">Số điện thoại đã được sử dụng</string>
+    <!-- Login -->
+    <string name="invalid_email_or_password">Email hoặc mật khẩu không đúng</string>
+    <string name="non_exist_email">Email không tồn tại</string>
+    <!-- Home -->
+    <string name="save_image_success">Ảnh đã được lưu vào thư viện</string>
+
+    <!-- Error -->
+    <string name="not_found_app">Ứng dụng không tồn tại</string>
+    <string name="add_friend_success">Đã gửi lời mời kết bạn thành công</string>
+
+    <!-- Success -->
+    <string name="delete_feed_success">Xóa bài viết thành công</string>
+    <string name="change_name_success">Thay đổi tên thành công</string>
+    <string name="change_phone_success">Thay đổi số điện thoại thành công</string>
+    <string name="report_problem_success">Báo cáo vấn đề thành công</string>
+    <string name="make_suggestion_success">Gửi ý kiến thành công</string>
+    <string name="upload_image_success">Thay đổi ảnh đại diện thành công</string>
+    <string name="delete_image_success">Xoá ảnh đại diện thành công</string>
+
+
+</resources>
